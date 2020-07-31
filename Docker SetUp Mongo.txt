@@ -1,0 +1,15 @@
+-> Download image (eg. mongo)
+docker pull mongo
+
+-> Create an container (eg. mongo)
+docker run --name mongodb -p 27017:27017 -d mongo
+(-p(port) local_port:docker_port -d(create) image)
+
+-> list active images
+docker ps
+
+-> list inactive images
+docker ps -a
+
+-> start a container
+docker start (name)
