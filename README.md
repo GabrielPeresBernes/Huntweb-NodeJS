@@ -18,7 +18,7 @@ Now you can start your container when needed with `docker start mongodb`
 
 ### NPM / Yarn
 
-Inside de project root directory run `npm install` or `yarn install` to install the project dependencies
+Inside the project root directory run `npm install` or `yarn install` to install the project dependencies
 
 Finally you can run `npm run dev` or `yarn dev` to start de back-end server
 
