@@ -24,7 +24,7 @@ Finally you can run `npm run dev` or `yarn dev` to start de back-end server
 
 ## Avaliable Routes
 
-> You can easily test all te routes with [Insomnia](https://insomnia.rest/download/)
+> You can easily test all the routes with [Insomnia](https://insomnia.rest/download/)
 
 - GET http://localhost:3001/api/products
   - List all products (return products array)
