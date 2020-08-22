@@ -43,9 +43,9 @@ Finally you can run `npm run dev` or `yarn dev` to start de back-end server
   
 ## Directory Structure
 
-- **node_modules** (project dependencies)
-- **src** (main application files)
-  - **controllers** (application controllers)
-  - **models** (application models)
-  - **routes** (application routes)
-- **server** (initialize the application)
+- **node_modules/** (project dependencies)
+- **src/** (main application files)
+  - **controllers/** (application controllers)
+  - **models/** (application models)
+  - **routes.js** (application routes)
+- **server.js** (initialize the application)
