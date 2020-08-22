@@ -14,7 +14,7 @@ After Docker installation run `docker pull mongo` to download a Mongo image
 
 Then create a new container, and redirect ports with `docker run --name mongodb -p 27017:27017 -d mongo`
 
-Now you can run your container when needed with `docker start mongodb`
+Now you can start your container when needed with `docker start mongodb`
 
 ### NPM / Yarn
 
